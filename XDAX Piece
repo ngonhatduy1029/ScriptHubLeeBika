@@ -1,0 +1,52 @@
+if game.PlaceId == 12004594806 then
+    print ("Sword Piece")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RimuraHub/MAP/main/SwordPiece.txt"))()
+elseif game.PlaceId == 18271034370 then
+    print ("Sakura piece")
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/RimuraHub/MAP/main/SakuraPiece.lua"))()
+elseif game.PlaceId == 15049111150 then
+    print ("Second piece")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RimuraHub/MAP/main/SecondPiece.lua"))()
+elseif game.PlaceId == 10260193230 then
+    print ("Meme Sea")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RimuraHub/MAP/main/MemeSea.lua"))()
+elseif game.PlaceId == 17415731457 then
+    print ("XDAX Piece piece")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RimuraHub/MAP/main/XADX%20PIECE.lua"))()
+elseif game.PlaceId == 14288176792 then
+    print ("Condi piece")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RimuraHub/MAP/main/CondiPiece.lua"))()
+elseif game.PlaceId == 15030260251 then
+    print ("Condi sea2 piece")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RimuraHub/MAP/main/CondiPiece.lua"))()
+elseif game.PlaceId == 18688206652 then
+    print ("ijul piece 2")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RimuraHub/MAP/main/ijul.lua"))()
+elseif game.PlaceId == 17545130379 then
+    print ("Royal sea")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RimuraHub/MAP/main/RoyalSea.lua"))()
+elseif game.PlaceId == 17167990958 then
+    print ("Rock Fruit")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RimuraHub/MAP/main/RockFruit.lua"))()
+elseif game.PlaceId == 94884335664600 then
+    print ("Cool obby")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RimuraHub/MAP/main/CoolObby.lua"))()
+elseif game.PlaceId == 15700946653 then
+    print ("G pirate")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RimuraHub/Test/refs/heads/main/Gpi.lua"))()
+elseif game.PlaceId == 16448761503 then
+    print ("Rung sea")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Godmey/Rungsea/refs/heads/main/Ruakak.lua"))()
+elseif game.PlaceId == 75972208642796 then
+    print ("Blox Legacy")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RimuraHub/Test/refs/heads/main/Blox%20Legacy.lua.txt"))()
+elseif game.PlaceId == 18968803452 then
+    print ("Muyong-Piece")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RimuraHub/MAP/refs/heads/main/Muyo.lua"))()
+elseif game.PlaceId == 105557873963854 then
+    print ("CeeTo Fruit")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RimuraHub/MAP/refs/heads/main/CeeTo%20Piece.lua"))()
+elseif game.PlaceId == 6925849909 then
+    print ("City Banna")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RimuraHub/MAP/refs/heads/main/City%20Banna.lua"))()
+end
